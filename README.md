@@ -56,6 +56,13 @@
   <img width="12" />
   <img src="https://r2.hypastack.com/cdn/a2sxu65wd2tk/flask_logo_icon.svg" height="40" alt="python flask logo"  />
   <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/8f9fqw052ino/ISO_C___Logo.svg.png" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/dw7auomwwj42/vscode-logo.png" height="40" alt="vs code logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/78h0v897qfgb/visual-studio-logo.png" height="40" alt="visual studio logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/occ8ntax18mm/Csharp_Logo.png" height="40" alt="csharp logo"  />
+  <img width="12" />
 </div>
-
 ###
