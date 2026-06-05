@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning how to scale<br>🎯 Goals: make Hypastack big<br>🎲 Fun fact: I'm a solo european developer :)</p>
+<p align="left">✨ Creating bugs since ~2023<br>📚 I'm currently learning how to scale<br>🎯 Goals: make Hypastack big<br>🎲 Fun fact: I'm a solo european developer :)</p>
 
 ###
 
