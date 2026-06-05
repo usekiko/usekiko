@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I have worked with</h2>
 
 ###
 
@@ -47,6 +47,15 @@
   <img src="https://r2.hypastack.com/cdn/caytd8sfmc2l/postgresql-logo.png" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://r2.hypastack.com/cdn/sm8c17nrll77/stripe-logo.png" height="40" alt="stripe logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/vjcwheya4rke/lua-logo.png" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/h0bt5gpcgqd0/mysql_PNG11.png" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/eltdesj6gxlr/python-logo.png" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/a2sxu65wd2tk/flask_logo_icon.svg" height="40" alt="python flask logo"  />
+  <img width="12" />
 </div>
 
 ###
