@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Alex and I'm a Full-stack developer, from Poland!</p>
+<p align="left">My name is Alex and I'm a Polish Full-stack Developer!</p>
 
 ###
 
