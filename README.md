@@ -17,6 +17,8 @@
 
 <h2 align="left">I have worked with</h2>
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ###
 
 <div align="left">
