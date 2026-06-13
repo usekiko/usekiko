@@ -43,7 +43,13 @@ I specialize in building privacy-first web applications, high-performance APIs, 
   <img width="12" />
   <img src="https://r2.hypastack.com/cdn/eltdesj6gxlr/python-logo.png" height="40" alt="Python" />
   <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/a2sxu65wd2tk/flask_logo_icon.svg" height="40" alt="Flask" />
+  <img width="12" />
   <img src="https://r2.hypastack.com/cdn/8f9fqw052ino/ISO_C___Logo.svg.png" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/occ8ntax18mm/Csharp_Logo.png" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/vjcwheya4rke/lua-logo.png" height="40" alt="Lua" />
 </div>
 
 <br>
@@ -52,7 +58,7 @@ I specialize in building privacy-first web applications, high-performance APIs, 
 <div align="left">
   <img src="https://r2.hypastack.com/cdn/wxv97rkd4ldi/ubuntu-logo.png" height="40" alt="Ubuntu" />
   <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/i6anmilmrgl6/github-logo.png" height="40" alt="GitHub Actions" />
+  <img src="https://r2.hypastack.com/cdn/i6anmilmrgl6/github-logo.png" height="40" alt="GitHub" />
   <img width="12" />
   <img src="https://r2.hypastack.com/cdn/4asy8rfth9lq/Cloudflare_Logo.png" height="40" alt="Cloudflare" />
   <img width="12" />
@@ -61,4 +67,13 @@ I specialize in building privacy-first web applications, high-performance APIs, 
   <img src="https://r2.hypastack.com/cdn/sm8c17nrll77/stripe-logo.png" height="40" alt="Stripe" />
   <img width="12" />
   <img src="https://r2.hypastack.com/cdn/tutc254jcbwl/Monero_logo_round.png" height="40" alt="Monero" />
+</div>
+
+<br>
+
+**Tools & Environments**
+<div align="left">
+  <img src="https://r2.hypastack.com/cdn/dw7auomwwj42/vscode-logo.png" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://r2.hypastack.com/cdn/78h0v897qfgb/visual-studio-logo.png" height="40" alt="Visual Studio" />
 </div>
