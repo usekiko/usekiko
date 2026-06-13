@@ -7,7 +7,7 @@ I specialize in building privacy-first web applications, high-performance APIs, 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### 🚀 What I'm Up To
-* **Building [Hypastack](https://your-link-here.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN.
+* **Building [Hypastack](https://hypastack.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN.
 * **Current Focus:** Aggressively scaling Hypastack. My day-to-day involves expanding the core feature set, optimizing performance, and hardening the infrastructure for growth.
 
 ---
