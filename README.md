@@ -4,7 +4,7 @@
 
 I build privacy-first web apps, high-performance APIs, and infrastructure designed not to crash at 3 AM. I focus on clean, minimalist user interfaces, mostly because simple UIs do a great job hiding complex backend systems underneath.
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### 🚀 What I'm Up To
 * **Building [Hypastack](https://hypastack.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN
