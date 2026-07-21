@@ -1,20 +1,20 @@
-# Hey 👋 I'm Alex
+# Kiko (usekiko)
 
 **Full-Stack Developer & Systems Architect | Poland**
 
-I specialize in building privacy-first web applications, high-performance APIs, and secure infrastructure. I focus on creating clean, minimalist user experiences backed by complex, scalable, and automated backend systems.
+I build privacy-first web apps, high-performance APIs, and infrastructure designed not to crash at 3 AM. I focus on clean, minimalist user interfaces, mostly because simple UIs do a great job hiding complex backend systems underneath.
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ### 🚀 What I'm Up To
-* **Building [Hypastack](https://hypastack.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN.
-* **Current Focus:** Aggressively scaling Hypastack. My day-to-day involves expanding the core feature set, optimizing performance, and hardening the infrastructure for growth.
+* **Building [Hypastack](https://hypastack.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN
+* **Current Focus:** Aggressively scaling Hypastack, optimizing query performance, and keeping the uptime badge green.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-*(Icons served globally via Hypastack CDN)*
+*(Icons served via Hypastack CDN)*
 
 **Frontend & Design**
 <div align="left">
