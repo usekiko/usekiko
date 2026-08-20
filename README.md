@@ -1,5 +1,5 @@
 <h2>Hi, I'm Kiko! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Full-Stack Developer & Systems Architect, Poland<br>Building <a href="https://hypastack.com">Hypastack</a><img src="https://r2.hypastack.com/cdn/hypaasset/hypastack.webp" width="30">, a zero-knowledge file-sharing platform and free global CDN
+<p><em>Full-Stack Developer & Systems Architect, Poland<br>Building <a href="https://hypastack.com">Hypastack</a><img src="https://r2.hypastack.com/cdn/hypaasset/hypastack.webp" width="15">, a zero-knowledge file-sharing platform and free global CDN
 </em></p>
 
 [![GitHub usekiko](https://img.shields.io/github/followers/usekiko?label=follow&style=social)](https://github.com/usekiko)
