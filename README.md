@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/rbzcKSntc)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+## A little more about me..
 
 ```typescript
 const kiko = {
@@ -15,14 +15,14 @@ const kiko = {
   building: "Hypastack, zero-knowledge file sharing and a free global CDN",
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Rust", "Python", "Flask", "C++", "C#", "Lua"],
-    databases: ["PostgreSQL", "MySQL"],
-    infra: ["Ubuntu", "Cloudflare", "AWS S3", "GitHub"],
+    backend: ["Node.js", "Rust", "Python", "Flask", "C++", "C#", "Lua", "Erlang", "Golang"],
+    databases: ["PostgreSQL", "MySQL", "HeidiSQL"],
+    infra: ["Ubuntu", "Cloudflare", "AWS S3", "GitHub", "Mintlify", "OVH", "Git CI/CD"],
     payments: ["Stripe", "Monero"],
   },
-  focus: "privacy-first infra that doesn't crash at 3am",
+  focus: "privacy-first infrastructure that doesn't crash at 3am (sometimes)",
   philosophy: "simple UI hiding a complicated backend, not the other way around",
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Building something privacy-focused too?</b> Happy to talk, find me at <a href="https://hypastack.com">hypastack.com</a> or open an issue on the repo.</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>Building something privacy-focused too?</b> Happy to talk, find me at <a href="https://hypastack.com">hypastack.com</a> or open an issue on the repo.</em>
