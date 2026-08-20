@@ -1,79 +1,28 @@
-# Kiko (usekiko)
+<h2>Hi, I'm Kiko! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Full-Stack Developer & Systems Architect, Poland<br>Building <a href="https://hypastack.com">Hypastack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, a zero-knowledge file-sharing platform and free global CDN
+</em></p>
 
-**Full-Stack Developer & Systems Architect | Poland**
-
-I build privacy-first web apps, high-performance APIs, and infrastructure designed not to crash at 3 AM. I focus on clean, minimalist user interfaces, mostly because simple UIs do a great job hiding complex backend systems underneath.
-
+[![GitHub usekiko](https://img.shields.io/github/followers/usekiko?label=follow&style=social)](https://github.com/usekiko)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/rbzcKSntc)
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2odro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
-### 🚀 What I'm Up To
-* **Building [Hypastack](https://hypastack.com):** A zero-knowledge, privacy-focused file-sharing platform and CDN
-* **Current Focus:** Aggressively scaling Hypastack, optimizing query performance, and keeping the uptime badge green.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
----
+```typescript
+const kiko = {
+  based: "Poland",
+  building: "Hypastack, zero-knowledge file sharing and a free global CDN",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Rust", "Python", "Flask", "C++", "C#", "Lua"],
+    databases: ["PostgreSQL", "MySQL"],
+    infra: ["Ubuntu", "Cloudflare", "AWS S3", "GitHub"],
+    payments: ["Stripe", "Monero"],
+  },
+  focus: "privacy-first infra that doesn't crash at 3am",
+  philosophy: "simple UI hiding a complicated backend, not the other way around",
+}
+```
 
-### 💻 Tech Stack & Tools
-
-*(Icons served via Hypastack CDN)*
-
-**Frontend & Design**
-<div align="left">
-  <img src="https://r2.hypastack.com/cdn/7muk3owoe8nu/react-logo.png" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/px584ggdswa5/next.js-logo.png" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/69h99fpqnv1d/tailwindcss-logo.png" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/691hcz05obd7/typescript-logo.png" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/c6b66e0rc97p/JavaScript-logo.png" height="40" alt="JavaScript" />
-</div>
-
-<br>
-
-**Backend & Databases**
-<div align="left">
-  <img src="https://r2.hypastack.com/cdn/rienmjxg3i7p/node.js-logo.png" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/caytd8sfmc2l/postgresql-logo.png" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/h0bt5gpcgqd0/mysql_PNG11.png" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/a1rdd54wn9k8/rust-logo.png" height="40" alt="Rust" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/eltdesj6gxlr/python-logo.png" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/a2sxu65wd2tk/flask_logo_icon.svg" height="40" alt="Flask" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/8f9fqw052ino/ISO_C___Logo.svg.png" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/occ8ntax18mm/Csharp_Logo.png" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/vjcwheya4rke/lua-logo.png" height="40" alt="Lua" />
-</div>
-
-<br>
-
-**Infrastructure, Security & Operations**
-<div align="left">
-  <img src="https://r2.hypastack.com/cdn/wxv97rkd4ldi/ubuntu-logo.png" height="40" alt="Ubuntu" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/i6anmilmrgl6/github-logo.png" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/4asy8rfth9lq/Cloudflare_Logo.png" height="40" alt="Cloudflare" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/y39dchl2z17c/amazon-s3.png" height="40" alt="AWS S3" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/sm8c17nrll77/stripe-logo.png" height="40" alt="Stripe" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/tutc254jcbwl/Monero_logo_round.png" height="40" alt="Monero" />
-</div>
-
-<br>
-
-**Tools & Environments**
-<div align="left">
-  <img src="https://r2.hypastack.com/cdn/dw7auomwwj42/vscode-logo.png" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://r2.hypastack.com/cdn/78h0v897qfgb/visual-studio-logo.png" height="40" alt="Visual Studio" />
-</div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Building something privacy-focused too?</b> Happy to talk, find me at <a href="https://hypastack.com">hypastack.com</a> or open an issue on the repo.</em>
