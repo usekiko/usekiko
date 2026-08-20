@@ -9,7 +9,7 @@
 ## A little more about me..
 
 ```typescript
-const aboutme = {
+const kiko = {
   based: "Poland",
   building: "Hypastack, zero-knowledge file sharing and a free global CDN",
   stack: {
