@@ -1,5 +1,5 @@
 <h2>Hi, I'm Kiko! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Full-Stack Developer & Systems Architect, Poland<br>Right now, building nothing, ran out of server funds, gotta love self funding</em></p>
+<p><em>Full-Stack Developer & Systems Architect, Poland<br>Right now building nothing because i ran out of server funds, gotta love self funding</em></p>
 
 [![GitHub usekiko](https://img.shields.io/github/followers/usekiko?label=follow&style=social)](https://github.com/usekiko)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/rbzcKSntc)
