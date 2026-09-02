@@ -13,12 +13,13 @@ const me = {
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Rust", "Python", "Flask", "C++", "C#", "Lua", "Erlang", "Golang"],
-    databases: ["PostgreSQL", "MySQL", "HeidiSQL"],
+    databases: ["PostgreSQL", "MySQL"],
     infra: ["Ubuntu", "Cloudflare", "AWS S3", "GitHub", "Mintlify", "OVH", "Git CI/CD"],
     payments: ["Stripe", "Monero"],
   },
   primaryfocus: "Privacy first infrastructure",
   philosophy: "Simple UI hiding a complicated backend, not the other way around",
+  tools: "AI Assisted coding.",
 }
 ```
 
