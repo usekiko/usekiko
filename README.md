@@ -15,7 +15,7 @@ const me = {
     backend: ["Node.js", "Rust", "Python", "Lua", "Erlang", "Golang"],
     databases: ["PostgreSQL", "MySQL"],
     infra: ["Ubuntu", "Cloudflare", "AWS S3", "GitHub", "Mintlify", "OVH", "Git CI/CD", "BetterAuth"],
-    payments: ["Stripe", "Monero", "Polar.sh"],
+    payments: ["Monero", "Polar.sh"],
     tools: ["AI-Assisted Coding", "Postman"],
   },
   primaryFocus: "Privacy first infrastructure",
